@@ -13,7 +13,7 @@ To be updated...
 </div>
 
 ## Features
-- Search Australian medicines
+- Search Australian medicines by name or Wiki content.
 - Check Wikipedia definitions when available.
 
 ## Database update
