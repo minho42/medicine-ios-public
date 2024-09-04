@@ -3,7 +3,8 @@
 Simple Australian medicine dictionary.
 
 ## App Store Link
-To be updated...
+
+https://apps.apple.com/au/app/australian-medicines/id6664071242
 
 ## Screenshots
 
@@ -13,6 +14,7 @@ To be updated...
 </div>
 
 ## Features
+
 - Search Australian medicines by name or Wiki content.
 - Check Wikipedia definitions when available.
 
